@@ -1,0 +1,11 @@
+torch==1.6.0 
+torchvision==0.7.0
+numpy 
+opencv-python
+googledrivedownloader
+gdown
+scikit-image
+boto3==1.9.216
+requests
+flask
+Pillow
